@@ -1,10 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Projects/Class_project/Class_project/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exponents_Exercise2/Program.cs">
     <Files>
-      <File FileName="Exponents_Exercise2/Program.cs" Line="1" Column="1" />
-      <File FileName="../../Projects/Class_project/Class_project/Program.cs" Line="1" Column="1" />
+      <File FileName="Exponents_Exercise2/Program.cs" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
